@@ -233,8 +233,11 @@ Google Drive Link:
 6. Open: `http://localhost:8000` in a web browser. **OR** Scan the given QR code on any mobile device. 
 
 (make sure device running the application and the mobile device are on the same network) 
+---
 
+<img width="640" height="611" alt="image" src="https://github.com/user-attachments/assets/3da3175c-b1a8-440d-92be-1d147793bfa9" />
 
+---
 
 ## Disclaimer
 
