@@ -3,6 +3,7 @@ import uuid
 from sentence_transformers import SentenceTransformer
 from chromadb.config import Settings
 from app.utils.paths import CHROMA_DIR
+from app.utils.paths import MODEL_DIR
 
 
 class VectorStore:
@@ -26,10 +27,11 @@ class VectorStore:
 
         print("\nLOADING BGE-M3...")
         self.model = SentenceTransformer(
-            "BAAI/bge-m3",
+            str(MODEL_DIR / "bge-m3"),
             device="cpu"
         )
         print("BGE-M3 READY")
+
 
     def add_chunks(self, chunks):
 
