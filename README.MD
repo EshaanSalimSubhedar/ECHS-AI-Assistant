@@ -271,6 +271,11 @@ http://localhost:8000
 ```
 
 in a web browser.
+**OR**
+Scan the given QR code on any mobile device. (make sure device running the application and mobile device are on the same network) 
+---
+
+
 
 ---
 
