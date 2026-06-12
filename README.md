@@ -22,6 +22,8 @@ The complete offline deployment package can be downloaded here:
 4. Open the extracted folder.
 5. Run `ECHS_AI.exe`.
 6. Open `http://localhost:8000` in a web browser.
+   
+---
 
 ## Key Features
 
