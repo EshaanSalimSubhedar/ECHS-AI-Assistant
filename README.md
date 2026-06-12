@@ -51,8 +51,8 @@ Powered by Meta's NLLB translation model for bidirectional translation.
 * Manage empanelled hospital information.
 * Automatic database rebuilding after document updates.
 
-<img width="881" height="615" alt="WhatsApp Image 2026-06-12 at 15 27 07" src="https://github.com/user-attachments/assets/3cf2219d-f6f7-489b-9c16-abc84a24659d" />
-<img width="842" height="967" alt="WhatsApp Image 2026-06-12 at 15 27 06" src="https://github.com/user-attachments/assets/c250911c-2590-4459-a8f9-8b57ab931537" />
+<img width="701" height="391" alt="image" src="https://github.com/user-attachments/assets/ab7f5f89-28b6-40e1-8824-8ed0afc6da0c" />
+<img width="845" height="967" alt="image" src="https://github.com/user-attachments/assets/e59ff4ae-a482-4af6-a9ef-03a3aa6ca93c" />
 
 ### Source Verification
 
