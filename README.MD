@@ -104,39 +104,39 @@ This ensures transparency and traceability of generated answers.
 
 User Query
 
-    ↓
+↓
 
 React Frontend
 
-    ↓
+↓
 
 FastAPI Backend
 
-    ↓
+↓
 
 Query Processing
 
-    ↓
+↓
 
 Hybrid Retrieval Layer
 
-    ↓
+↓
 
 ChromaDB + BGE-M3 Embeddings
 
-    ↓
+↓
 
 Document Retrieval
 
-    ↓
+↓
 
 Qwen 2.5 LLM
 
-    ↓
+↓
 
 Response Generation
 
-    ↓
+↓
 
 Source-Cited Answer
 
@@ -221,7 +221,7 @@ Due to the size of the AI models and document database, the deployment package i
 
 Google Drive Link:
 
-[https://drive.google.com/drive/folders/1nR25qo7wvYRnWGhY9JspO3mbHUIWtKS1?usp=sharing]
+**[** https://drive.google.com/drive/folders/1nR25qo7wvYRnWGhY9JspO3mbHUIWtKS1?usp=sharing **]**
 
 ### Installation
 
@@ -233,6 +233,7 @@ Google Drive Link:
 6. Open: `http://localhost:8000` in a web browser. **OR** Scan the given QR code on any mobile device. 
 
 (make sure device running the application and the mobile device are on the same network) 
+
 ---
 
 <img width="640" height="611" alt="image" src="https://github.com/user-attachments/assets/3da3175c-b1a8-440d-92be-1d147793bfa9" />
