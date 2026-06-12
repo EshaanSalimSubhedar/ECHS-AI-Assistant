@@ -180,38 +180,6 @@ Source-Cited Answer
 
 ---
 
-## Project Structure
-
-```text
-ECHS-AI-Assistant
-│
-├── backend
-│   ├── app
-│   │   ├── api
-│   │   ├── ingestion
-│   │   ├── llm
-│   │   ├── rag
-│   │   ├── services
-│   │   └── utils
-│   │
-│   ├── build_db.py
-│   ├── run_server.py
-│   └── requirements.txt
-│
-├── frontend
-│   ├── src
-│   ├── public
-│   └── package.json
-│
-├── deployment
-│
-├── README.md
-│
-└── requirements.txt
-```
-
----
-
 ## Knowledge Base
 
 The system is designed to ingest and search:
