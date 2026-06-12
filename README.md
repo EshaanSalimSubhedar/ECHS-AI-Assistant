@@ -17,6 +17,8 @@ The system combines Retrieval-Augmented Generation (RAG), semantic search, OCR, 
 * Generates answers grounded in official documentation.
 * Accepts voice input for all supported languages.
 
+<img width="842" height="968" alt="image" src="https://github.com/user-attachments/assets/eee170e7-be3b-4e1f-9bbd-5ecaa40c63ff" />
+
 ### Multilingual Support
 
 * English
@@ -27,7 +29,9 @@ The system combines Retrieval-Augmented Generation (RAG), semantic search, OCR, 
 Powered by Meta's NLLB translation model for bidirectional translation.
 
 <img width="881" height="615" alt="WhatsApp Image 2026-06-12 at 15 27 07" src="https://github.com/user-attachments/assets/32086e34-45fc-492e-812c-c38c5039ecfa" />
+
 <img width="847" height="972" alt="image" src="https://github.com/user-attachments/assets/1e4b1a1a-dc07-41eb-bddd-9f0a37e60d12" />
+
 <img width="845" height="296" alt="image" src="https://github.com/user-attachments/assets/0f514fd0-10c3-4baf-a28c-84c3184c769f" />
 
 ### Hybrid Retrieval
@@ -54,7 +58,6 @@ Powered by Meta's NLLB translation model for bidirectional translation.
 * Manage empanelled hospital information.
 * Automatic database rebuilding after document updates.
 
-<img width="701" height="391" alt="image" src="https://github.com/user-attachments/assets/ab7f5f89-28b6-40e1-8824-8ed0afc6da0c" />
 <img width="845" height="967" alt="image" src="https://github.com/user-attachments/assets/e59ff4ae-a482-4af6-a9ef-03a3aa6ca93c" />
 
 ### Source Verification
