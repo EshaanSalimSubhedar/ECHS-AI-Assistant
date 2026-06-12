@@ -8,6 +8,21 @@ The system combines Retrieval-Augmented Generation (RAG), semantic search, OCR, 
 
 ---
 
+## Download Deployment Package
+
+The complete offline deployment package can be downloaded here:
+
+[Google Drive Download Link]
+
+### Installation
+
+1. Download both archive parts.
+2. Place them in the same folder.
+3. Extract `ECHS_AI.zip.001`.
+4. Open the extracted folder.
+5. Run `ECHS_AI.exe`.
+6. Open `http://localhost:8000` in a web browser.
+
 ## Key Features
 
 ### Document Intelligence
