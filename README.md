@@ -25,6 +25,8 @@ The system combines Retrieval-Augmented Generation (RAG), semantic search, OCR, 
 
 Powered by Meta's NLLB translation model for bidirectional translation.
 
+<img width="881" height="615" alt="WhatsApp Image 2026-06-12 at 15 27 07" src="https://github.com/user-attachments/assets/32086e34-45fc-492e-812c-c38c5039ecfa" />
+
 ### Hybrid Retrieval
 
 * Semantic search using BGE-M3 embeddings.
@@ -48,6 +50,9 @@ Powered by Meta's NLLB translation model for bidirectional translation.
 * Categorize knowledge sources.
 * Manage empanelled hospital information.
 * Automatic database rebuilding after document updates.
+
+<img width="881" height="615" alt="WhatsApp Image 2026-06-12 at 15 27 07" src="https://github.com/user-attachments/assets/3cf2219d-f6f7-489b-9c16-abc84a24659d" />
+<img width="842" height="967" alt="WhatsApp Image 2026-06-12 at 15 27 06" src="https://github.com/user-attachments/assets/c250911c-2590-4459-a8f9-8b57ab931537" />
 
 ### Source Verification
 
