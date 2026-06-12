@@ -82,8 +82,6 @@ Every response includes:
 
 <img width="827" height="950" alt="image" src="https://github.com/user-attachments/assets/df1391ee-e0d6-467a-bfcc-9e7ffb328627" />
 
----
-
 This ensures transparency and traceability of generated answers.
 
 ---
@@ -106,39 +104,39 @@ This ensures transparency and traceability of generated answers.
 
 User Query
 
-↓
+    ↓
 
 React Frontend
 
-↓
+    ↓
 
 FastAPI Backend
 
-↓
+    ↓
 
 Query Processing
 
-↓
+    ↓
 
 Hybrid Retrieval Layer
 
-↓
+    ↓
 
 ChromaDB + BGE-M3 Embeddings
 
-↓
+    ↓
 
 Document Retrieval
 
-↓
+    ↓
 
 Qwen 2.5 LLM
 
-↓
+    ↓
 
 Response Generation
 
-↓
+    ↓
 
 Source-Cited Answer
 
@@ -236,11 +234,7 @@ Google Drive Link:
 
 (make sure device running the application and the mobile device are on the same network) 
 
----
 
-
-
----
 
 ## Disclaimer
 
