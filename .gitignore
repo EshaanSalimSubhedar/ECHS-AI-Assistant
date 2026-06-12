@@ -1,0 +1,27 @@
+# Deployment package
+deployment/
+
+# Data
+backend/app/data/
+
+# Built frontend
+backend/frontend/dist/
+
+# Models
+backend/models/
+
+# Python env
+backend/.venv/
+
+# PyInstaller
+backend/build/
+backend/dist/
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
