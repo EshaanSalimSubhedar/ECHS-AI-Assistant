@@ -264,15 +264,12 @@ Google Drive Link:
 3. Extract using 7-Zip.
 4. Open the extracted folder.
 5. Run `ECHS_AI.exe`.
-6. Open:
+6. Open: `http://localhost:8000` in a web browser. 
 
-```text
-http://localhost:8000
-```
+                    **OR** 
 
-in a web browser. 
-**OR** 
 Scan the given QR code on any mobile device. 
+
 (make sure device running the application and mobile device are on the same network) 
 
 ---
