@@ -266,7 +266,7 @@ Google Drive Link:
 5. Run `ECHS_AI.exe`.
 6. Open: `http://localhost:8000` in a web browser. **OR** Scan the given QR code on any mobile device. 
 
-(make sure device running the application and mobile device are on the same network) 
+(make sure device running the application and the mobile device are on the same network) 
 
 ---
 
