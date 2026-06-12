@@ -1,4 +1,4 @@
-# ECHS AI Assistant
+# ECHS AI assistant
 
 ## Overview
 
@@ -12,7 +12,7 @@ The system combines Retrieval-Augmented Generation (RAG), semantic search, OCR, 
 
 The complete offline deployment package can be downloaded here:
 
-[Google Drive Download Link]
+[https://drive.google.com/drive/folders/1nR25qo7wvYRnWGhY9JspO3mbHUIWtKS1?usp=sharing]
 
 ### Installation
 
