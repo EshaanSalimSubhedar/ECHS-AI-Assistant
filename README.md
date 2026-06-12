@@ -17,8 +17,6 @@ The system combines Retrieval-Augmented Generation (RAG), semantic search, OCR, 
 * Generates answers grounded in official documentation.
 * Accepts voice input for all supported languages.
 
-<img width="842" height="968" alt="image" src="https://github.com/user-attachments/assets/eee170e7-be3b-4e1f-9bbd-5ecaa40c63ff" />
-
 ### Multilingual Support
 
 * English
@@ -27,13 +25,15 @@ The system combines Retrieval-Augmented Generation (RAG), semantic search, OCR, 
 * Assamese
 
 Powered by Meta's NLLB translation model for bidirectional translation.
-
+---
 <img width="881" height="615" alt="WhatsApp Image 2026-06-12 at 15 27 07" src="https://github.com/user-attachments/assets/32086e34-45fc-492e-812c-c38c5039ecfa" />
-
+---
+<img width="842" height="968" alt="image" src="https://github.com/user-attachments/assets/eee170e7-be3b-4e1f-9bbd-5ecaa40c63ff" />
+---
 <img width="847" height="972" alt="image" src="https://github.com/user-attachments/assets/1e4b1a1a-dc07-41eb-bddd-9f0a37e60d12" />
-
-<img width="845" height="296" alt="image" src="https://github.com/user-attachments/assets/0f514fd0-10c3-4baf-a28c-84c3184c769f" />
-
+---
+<img width="845" height="970" alt="image" src="https://github.com/user-attachments/assets/0f514fd0-10c3-4baf-a28c-84c3184c769f" />
+---
 ### Hybrid Retrieval
 
 * Semantic search using BGE-M3 embeddings.
